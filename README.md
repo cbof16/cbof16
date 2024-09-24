@@ -92,6 +92,10 @@ Welcome to my GitHub profile! I'm passionate about building robust software solu
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cbof16&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=cbof16&theme=highcontrast&show_icons=true&hide_border=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=cbof16&theme=highcontrast&hide_border=true)" align="center" /></div>  
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=cbof16&theme=highcontrast&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=cbof16&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)" align="center" /></div>  
+![cbof16's Streak]()
+![cbof16's Top Languages]()
 
 <br/>  
   
